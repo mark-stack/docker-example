@@ -3,7 +3,7 @@
 
 This is an instruction on how to **build** a new Laravel 9 project in Docker in around 15 mins - not to fork this one.
 
-[The deployed files are in the master branch](../tree/master)
+[The deployed files are in the master branch](https://github.com/mark-stack/docker-example/tree/master)
 
 ## Stack:
 * Laravel 9
